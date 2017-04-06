@@ -16,7 +16,12 @@ Order ID, quantity, item name, choice description (what is on the item, salsa/be
    wc PBchicken.txt (returns 105 lines)<br></br>
    Black beans are more popular on the chicken burrito<br></br><br></br>
 
-6.git clone https://github.com/ga-students/DS-SEA-06 <br></br>
-find data /*.csv | find data /*.tsv | wc -l <br></br>
+6.cd Desktop <br></br>cd Coursefiles<br></br>cd DS-SEA-06
+$ find data /*.csv | find data /*.tsv | wc -l
+find: ‘/*.csv’: No such file or directory
+find: ‘/*.tsv’: No such file or directory
+48
 
-7. grep -r -i "dictionary" . | wc -w 1174
+
+7. grep -r -i "dictionary" . | wc -w <br></br>
+1174
