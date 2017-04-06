@@ -1,4 +1,4 @@
-##Project Question##
+##Project Question##<br></br>
 <b>What is the question you hope to answer?</b>
 Can we predict the number of bias crimes in a city tracked by the Human Rights Campaign given the Human Rights Campaign's city grading rubric?<br></br>
 
